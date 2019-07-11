@@ -1,2 +1,2 @@
 # CNN_Baseline
-VGG, DenseNet, ResNet in Tensorflow
+### AlexNet, VGG, DenseNet, ResNet in Tensorflow
